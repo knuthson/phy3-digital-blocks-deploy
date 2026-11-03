@@ -1,3 +1,4 @@
+*.url
 *.bundle.*
 lib/
 node_modules/
