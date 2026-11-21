@@ -16,3 +16,9 @@ ________________________________________________________________________________
 [![Open in JupyterLite](https://img.shields.io/badge/Open_in-JupyterLite-blue)](https://knuthson.github.io/phy3-digital-blocks-deploy/lab/index.html?path=02_Kinetik_Pendelwagen/PHY3_02_Kinetik_Pendelwagen_(Digitaler_Block).masked.ipynb)
 
 ![Kinetik Pendelwagen](content/02_Kinetik_Pendelwagen/kinetik_pendelwagen.svg)
+
+
+## 03 Kinematik Fahrgeschäfte
+[![Open in JupyterLite](https://img.shields.io/badge/Open_in-JupyterLite-blue)](https://knuthson.github.io/phy3-digital-blocks-deploy/lab/index.html?path=03_Kinematik_Fahrgeschaefte/PHY3_03_Kinematik_Fahrgeschaefte_(Digitaler_Block).masked.ipynb)
+
+![Kinematik Fahrgeschäfte](content/03_Kinematik_Fahrgeschaefte/TopScan.png)
